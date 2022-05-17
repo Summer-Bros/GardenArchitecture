@@ -6,7 +6,7 @@ The specifics of the hardware, sensors, and architecture of the physical garden.
 |  Category  |  Description  |  Images/Resources  |
 |------------|---------------|--------------------|
 |**(Pre) Initial Garden**|  |  <img src="https://github.com/Summer-Bros/GardenArchitecture/blob/main/photos/photo.jpeg" width=220 /> <img src="https://github.com/Summer-Bros/GardenArchitecture/blob/main/photos/photo-2.jpeg" width=220 /> <img src="https://github.com/Summer-Bros/GardenArchitecture/blob/main/photos/photo-3.jpeg" width=220/> |
-|**Sensors**|The sensors and data we intend on mesuring from the garden.| [See the Sensor Section](https://github.com/Summer-Bros/GardenArchitecture/tree/main/README.md#Sensors-Planning) |
+|**Sensors**|The sensors and data we intend on mesuring from the garden.| [See the Sensor Section](https://github.com/Summer-Bros/GardenArchitecture/tree/main/README.md#sensors-planning) |
 
 
 ## Status Key
